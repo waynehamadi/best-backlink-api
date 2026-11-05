@@ -1,0 +1,4 @@
+api,rank,provider,plan,overall_score,data_score,price_per_1000_usd,price_per_1000,date_tested,plan_page,best_page,sheet_api
+Backlink API,1,DataForSEO,top-up from $50,74.3,94,0.036,"$0.036 per 1,000 backlinks",2026-10-30,https://datacircle.dev/backlink-apis/dataforseo/top-up-from-50,https://datacircle.dev/best-backlink-api,Backlinks
+Backlink API,2,SE Ranking,"$29 monthly, Add-on, monthly billing",51.1,19,0.193,"$0.193 per 1,000 backlinks",2026-10-30,https://datacircle.dev/backlink-apis/se-ranking/29-monthly-add-on-monthly-billing-get-v1-backlinks-raw,https://datacircle.dev/best-backlink-api,Backlinks
+Backlink API,3,RankParse,"$15 monthly, Pro (monthly)",36.5,4,0.01,"$0.01 per 1,000 backlinks",2026-10-30,https://datacircle.dev/backlink-apis/rankparse/15-monthly-pro-monthly-get-v1-backlinks,https://datacircle.dev/best-backlink-api,Backlinks
